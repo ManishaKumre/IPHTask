@@ -32,4 +32,4 @@ List any prerequisites or requirements needed to run the project, such as:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/ManishaKumre/IPHTask.git
